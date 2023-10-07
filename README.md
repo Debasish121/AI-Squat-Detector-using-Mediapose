@@ -1,6 +1,7 @@
 # AI-Squat-Detector-using-Mediapose
 
 %pip install mediapipe opencv-python
+
 %pip install --upgrade mediapipe
 
 Install the these library and process to run it in vs code.
